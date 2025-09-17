@@ -2,7 +2,7 @@
 name = "zk-ai"
 version = "0.1.0"
 edition = "2021"
-authors = ["Reynaldi Nurpadilah <your-email@example.com>"]
+authors = ["heartless"]
 license = "MIT"
 description = "Zero-Knowledge Machine Learning playground"
 repository = "https://github.com/reyzxz/zk-ai"
