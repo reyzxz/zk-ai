@@ -12,3 +12,19 @@ Prove and verify ML inference without revealing model weights or private inputs.
 - **Examples**: Ready-to-run demos (linear regression, sentiment classifier).
 - **Benchmarks**: Measure proof size and runtime performance.
 - **Docs**: Architecture overview and zkML basics.
+
+---
+
+## 📂 Repository Layout
+zk-ai/
+├─ .github/workflows/ci.yml # CI pipeline (build & test)
+├─ circuits/ # ZK circuits
+├─ src/ # Rust bindings (prove/verify API)
+├─ examples/ # Demo models & data
+├─ tests/ # Unit tests
+├─ benchmarks/ # Performance measurement
+├─ docs/ # Documentation
+├─ scripts/ # Helper scripts
+├─ Cargo.toml # Rust config
+├─ README.md
+└─ LICENSE
