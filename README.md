@@ -1,4 +1,4 @@
-# zk-ai
+# ZKML
 
 Zero-Knowledge Machine Learning playground 🚀  
 Prove and verify ML inference without revealing model weights or private inputs.
