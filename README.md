@@ -16,15 +16,17 @@ Prove and verify ML inference without revealing model weights or private inputs.
 ---
 
 ## 📂 Repository Layout
+
+```plaintext
 zk-ai/
-├─ .github/workflows/ci.yml # CI pipeline (build & test)
-├─ circuits/ # ZK circuits
-├─ src/ # Rust bindings (prove/verify API)
-├─ examples/ # Demo models & data
-├─ tests/ # Unit tests
-├─ benchmarks/ # Performance measurement
-├─ docs/ # Documentation
-├─ scripts/ # Helper scripts
-├─ Cargo.toml # Rust config
+├─ .github/workflows/ci.yml      # CI pipeline (build & test)
+├─ circuits/                     # ZK circuits
+├─ src/                          # Rust bindings (prove/verify API)
+├─ examples/                     # Demo models & data
+├─ tests/                        # Unit tests
+├─ benchmarks/                   # Performance measurement
+├─ docs/                         # Documentation
+├─ scripts/                      # Helper scripts
+├─ Cargo.toml                    # Rust config
 ├─ README.md
 └─ LICENSE
